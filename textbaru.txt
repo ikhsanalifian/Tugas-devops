@@ -1,0 +1,1 @@
+DMA (Direct Memory Access) adalah suatu hardware spesial (chip) yang dapat mengontrol aliran bit data antara memory (RAM) dan beberapa controller dari I/O devices tanpa memerlukan interferensi dari CPU secara terus menerus. (Mengakses dan mengontrol memori sistem tanpa interferensi CPU secara terus menerus).
